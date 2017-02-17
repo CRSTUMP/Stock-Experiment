@@ -1,0 +1,6 @@
+Use Python to identify stocks that have highly correlated movements but not necessarily economic dependency.
+We can use this result to isolate stocks that are breaking with their historical averages in order to
+select profitable investments. 
+
+
+http://ichart.finance.yahoo.com/table.csv?d=6&e=1&f=2025&g=d&a=7&b=19&c=2004 &ignore=.csv&s=cmcsa

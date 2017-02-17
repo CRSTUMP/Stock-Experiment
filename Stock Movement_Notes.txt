@@ -1,0 +1,5 @@
+
+http://ichart.finance.yahoo.com/table.csv?d=6&e=1&f=2025&g=d&a=7&b=19&c=2004 &ignore=.csv&s=cmcsa
+
+
+http://www.nasdaq.com/screening/company-list.aspx
